@@ -1,0 +1,14 @@
+.page {
+    /* display: grid;
+    grid-template-columns: 50px 2fr 50px; */
+    background-color: black;
+}
+
+.hui {
+    background-color: aliceblue;
+}
+
+/* 
+.middle {
+    grid-column-start: 2;
+} */

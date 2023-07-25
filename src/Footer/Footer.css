@@ -1,0 +1,121 @@
+.foot {
+    background-color: rgb(189, 53, 53);
+    height: 470px;
+    width: 100%;
+    color: aliceblue;
+}
+
+.Icon {
+    margin-top: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.columns {
+    height: 100%;
+    background-color: rgb(0, 0, 0);
+    display: grid;
+    justify-content: center;
+    text-align: center;
+
+    color: #fff;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 23.999px; /* 133.327% */
+    letter-spacing: 2px;
+
+    grid-template-columns: 30% 17.5% 17.5% 17.5% 17.5%;
+}
+
+.App-logo {
+    width: 160px;
+    height: 19px;
+    flex-shrink: 0;
+}
+
+.icon {
+    margin-top: 105px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.messengers {
+    width: 160px;
+    margin-top: 7px;
+    display: grid;
+    grid-template-columns: 70px 70px 60px;
+    /*grid-template-columns: 50px 2fr 50px; */
+}
+
+.aboutUs {
+    margin-top: 100px;
+    display: flex;
+    width: 211px;
+    height: 25px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    text-align: left;
+    line-height: 35px;
+    flex-direction: column;
+}
+
+.Event {
+    margin-top: 100px;
+    display: flex;
+    width: 211px;
+    height: 25px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    text-align: left;
+    line-height: 35px;
+    flex-direction: column;
+}
+
+.txtColor {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    text-align: left;
+    color: #fff;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 23.999px;
+    letter-spacing: 2px;
+    opacity: 0.4000000059604645;
+}
+
+.Support {
+    margin-top: 100px;
+    display: flex;
+    width: 211px;
+    height: 25px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    text-align: left;
+    line-height: 35px;
+    flex-direction: column;
+}
+
+.FAQ {
+    margin-top: 100px;
+    display: flex;
+    width: 211px;
+    height: 25px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    text-align: left;
+    line-height: 35px;
+    flex-direction: column;
+}

@@ -1,0 +1,96 @@
+.Stron {
+    height: 850px;
+    display: grid;
+    grid-template-columns: 50% 45% 5%;
+    background-color: #000;
+}
+
+.LeftStron {
+    display: grid;
+    padding: 100px 0px 0px 100px;
+    grid-template-rows: 250px 200px 200px;
+}
+
+.css-a9pq5j-MuiButton-root {
+    color: var(--md-sys-color-onPrimary, var(--md-ref-palette-primary-100, #000000)) !important;
+}
+
+.buttonStron {
+    border-radius: 83px;
+    background: #d9d9d9;
+    display: flex;
+    width: 340px;
+    height: 81px;
+    padding: 22px 85px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+}
+
+.TitleStron {
+    color: #fff;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 165.9%; /* 82.95px */
+    width: 500px;
+    flex-shrink: 0;
+}
+
+.SubTitleStron {
+    color: #4f5050;
+    font-family: Montserrat;
+    padding-top: 40px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 165.9%; /* 33.18px */
+    width: 430px;
+    height: 69px;
+    flex-shrink: 0;
+}
+
+.StronButtonText {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 165.9%; /* 49.77px */
+    font-variant: small-caps;
+}
+
+.RightStron {
+    display: grid;
+    padding-top: 100px;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.links {
+    padding-top: 50px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-rows: 200px 200px 200px;
+}
+
+.muiIcons {
+    height: 150px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-rows: 50px 50px 50px;
+    color: #fff;
+}
+
+.verticalLine {
+    margin-left: 16px;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 1px;
+    background: rgba(255, 255, 255, 0.5);
+}
